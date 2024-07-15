@@ -84,5 +84,50 @@
 `New paper be careful, notes will do`
 
 
+## Reasons I Scored 7.86 SGPA in 2nd Semester
 
+### 1. Maths
+   - **Reason:** I faked my hard work; I wasn't consistent. 
+   - I thought I followed my teacher, but in reality, I didn't. I should have solved 2-3 questions daily.
+   - I always made excuses and never solved assignments.
 
+   **Note:** It might seem that I'm weak in maths, but throughout my life, I have always scored well in maths. That's why I thought college maths would be the same as school maths.
+
+   **SGPA Growth:** 8.28
+
+### 2. Mechanics
+   - I thought I followed my teacher, but I didn't. I should have solved 3-4 questions daily and followed my notes rather than relying on YouTube.
+   - I missed some important classes.
+
+   **SGPA Growth:** 8.56
+
+### 3. Electronics
+   - I have an IQ of 142. I understood every point the teacher made, even though nobody else did. I went along with what others said.
+   - I should have focused on the teacher's notes and past year questions (PYQs).
+
+   **SGPA Growth:** 8.702
+
+### 4. AutoCAD
+   - Interaction was zero.
+   - Instead of doing the project on my own, I relied on others and didn't make any notes, thinking it was just a lab.
+
+   **SGPA Growth:** 8.90
+
+### 5. English
+   - I completely ignored it and didn't make notes.
+
+   **SGPA Growth:** 8.895
+
+### 6. EVS
+   - I completely neglected it during the end-semester exams.
+   - I didn't touch it; revision was out of scope.
+   - No PYQs, no notes, nothing.
+
+   **SGPA Growth:** 9.321
+
+## What Did I Learn?
+1. **Don't waste time on friends:** They won't help improve my SGPA.
+2. **Trust your notes:** For college, notes are sufficient.
+3. **Solve relevant questions:** Focus on questions similar to PYQs and class questions.
+4. **Trust your teacher and interact with them:** It's crucial to get noticed.
+5. **Solve PYQs and revise daily:** Revision is the key to perfection.
