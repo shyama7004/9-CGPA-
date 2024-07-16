@@ -102,7 +102,7 @@
    **SGPA Growth:** 8.56
 
 ### 3. Electronics
-   - I have an IQ of 142. I understood every point the teacher made, even though nobody else did. I went along with what others said.
+   - I understood every point the teacher made, even though nobody else did. I went      along with what others said.
    - I should have focused on the teacher's notes and past year questions (PYQs).
 
    **SGPA Growth:** 8.702
