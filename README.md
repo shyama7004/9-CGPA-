@@ -2,59 +2,108 @@
 
 <h2><div align="center">Working Day(Half)</div></h2>                      
    
-- **04:00 am - 04:30 am:** Wake up and finish up
-- **04:30 am - 07:30 am:** DSA and LeetCode (3 hr)
-- **07:30 am - 08:15 am:** Class preparation (45 min)
-- **08:15 am - 12:15 pm:** Class (4 hr)
-- **12:15 pm - 01:30 pm:** Lunch, break, and nap (1 hr 15 min)
-- **01:30 pm - 03:00 pm:** Class revision (1 hr 30 min)
-- **03:00 pm - 03:15 pm:** Short break (15 min)
-- **03:15 pm - 05:15 pm:** AiiDA (2 hr)
-- **05:15 pm - 05:30 pm:** Short break (15 min)
-- **05:30 pm - 06:30 pm:** Deeplens (1 hr)
-- **06:30 pm - 07:30 pm:** Dinner (1 hr)
-- **07:30 pm - 08:30 pm:** Badminton (1 hr)
-- **08:30 pm - 09:30 pm:** Deeplens (1 hr)
-- **09:30 pm - 10:00 pm:** Wind down (30 min)
-- **10:00 pm - 04:00 am:** Sleep (6 hr)
 
-<h2><div align="center">Working Day(Full)</div></h2>    
-- **04:00 am - 04:15 am:** Wake up and finish up
-- **04:20 am - 07:30 am:** DSA and LeetCode (3 hr)
-- **07:30 am - 08:15 am:** Class preparation (45 min)
-- **08:15 am - 12:15 pm:** Class (4 hr)
-- **12:15 pm - 01:30 pm:** Lunch, break, and nap (1 hr 15 min)
-- **01:30 pm - 03:00 pm:** Class revision (1 hr 30 min)
-- **03:00 pm - 03:15 pm:** Short break (15 min)
-- **03:15 pm - 05:15 pm:** AiiDA (2 hr)
-- **05:15 pm - 05:30 pm:** Short break (15 min)
-- **05:30 pm - 06:30 pm:** Deeplens (1 hr)
-- **06:30 pm - 07:30 pm:** Dinner (1 hr)
-- **07:30 pm - 08:30 pm:** Badminton (1 hr)
-- **08:30 pm - 09:30 pm:** Deeplens (1 hr)
-- **09:30 pm - 10:00 pm:** Wind down (30 min)
-- **10:00 pm - 04:00 am:** Sleep (6 hr)
+### Monday (Day Off for Practice)
+- **Attend Classes and Labs Only**
 
+### Tuesday to Sunday Schedule
 
-<h2><div align="center">Off-Day Schedule</div></h2>
+**Tuesday**
+- **4:15 am - 6:30 am**: DSA Practice
+- **6:30 am - 7:30 am**: Breakfast/Break
+- **7:30 am - 8:00 am**: Class Revision
+- **8:00 am - 9:00 am**: CR2403 Ceramic Raw Material
+- **9:00 am - 10:00 am**: Free Time
+- **10:00 am - 11:00 am**: CR2101 Thermo
+- **11:00 am - 12:00 pm**: CS2011 AI and ML
+- **12:00 pm - 1:00 pm**: Lunch
+- **1:15 pm - 4:10 pm**: Ceramic Modelling Lab
+- **4:20 pm - 5:15 pm**: HS
+- **5:15 pm - 5:30 pm**: Break
+- **5:30 pm - 7:30 pm**: OpenCv Contribution for GSoC
+- **7:30 pm - 8:00 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
 
-- **04:00 am - 04:30 am:** Wake up and finish up
-- **04:30 am - 07:30 am:** DSA and LeetCode (3 hr)
-- **07:30 am - 08:15 am:** Breakfast (45 min)
-- **08:15 am - 11:15 am:** AiiDA (3 hr)
-- **11:15 am - 11:30 am:** Short break (15 min)
-- **11:30 am - 12:30 pm:** Deeplens (1 hr)
-- **12:30 pm - 01:30 pm:** Lunch, break, and nap (1 hr)
-- **01:30 pm - 03:00 pm:** Class revision (1 hr 30 min)
-- **03:00 pm - 03:15 pm:** Short break (15 min)
-- **03:15 pm - 04:15 pm:** Deeplens (1 hr)
-- **04:15 pm - 05:15 pm:** Free time / Leisure activity (1 hr)
-- **05:15 pm - 06:15 pm:** Deeplens (1 hr)
-- **06:15 pm - 07:15 pm:** Dinner (1 hr)
-- **07:15 pm - 08:15 pm:** Badminton (1 hr)
-- **08:15 pm - 08:30 pm:** Wind down (15 min)
-- **08:30 pm - 09:30 pm:** Free time / Leisure activity (1 hr)
-- **09:30 pm - 04:00 am:** Sleep (6 hr 30 min)
+**Wednesday**
+- **4:00 am - 6:15 am**: DSA Practice
+- **6:15 am - 6:30 am**: Break
+- **6:30 am - 7:30 am**: Aiida Contribution for GSoC
+- **7:30 am - 8:00 am**: Breakfast
+- **8:15 am - 10:00 pm**: Aiida Contribution for GSoC
+- **10:15 am - 12:30 pm**: Class Revision
+- **12:15 pm - 1:00 pm**: Lunch
+- **1:00 pm - 3:15 pm**: OpenCv Contribution for GSoC
+- **3:15 pm - 4:15 pm**: Break
+- **4:20 pm - 6:15 pm**: Class
+- **6:30 pm - 7:30 pm**: Free Time
+- **7:45 pm - 8:30 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
+
+**Thursday**
+- **4:00 am - 6:15 am**: DSA Practice
+- **6:30 am - 7:30 am**: Breakfast/Break
+- **8:00 am - 9:00 am**: CR2403 Ceramic Raw Material
+- **9:00am - 10:00 am**: CR2101 Thermo
+- **10:00 am - 11:00 am**: MA2005 Numerical Method
+- **11:15 am - 12:00 pm**: Free Time
+- **12:00 pm - 12:45 pm**: Lunch
+- **12:45 pm - 3:00 pm**: Aiida Contribution for GSoC
+- **3:00 pm - 3:15 pm**: Break
+- **3:15 pm - 5:15 pm**: Class Revision
+- **5:15 pm - 5:30 pm**: Break
+- **5:30 pm - 7:30 pm**: OpenCv Contribution for GSoC
+- **7:30 pm - 8:00 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
+
+**Friday**
+- **4:00 am - 6:15 am**: DSA Practice
+- **6:15 am - 6:30 am**: Breakfast/Break
+- **6:30 am - 7:30 am**: OpenCv Contribution for GSoC
+- **7:30 am - 7:55 am**: Breakfast
+- **8:00 am - 9:00 pm**: MA2005 Numerical Meth
+- 
+- **12:00 pm - 1:00 pm**: Lunch
+- **1:00 pm - 3:00 pm**: Aiida Contribution for GSoC
+- **3:00 pm - 3:15 pm**: Break
+- **3:15 pm - 5:15 pm**: OpenCv Contribution for GSoC
+- **5:15 pm - 5:30 pm**: Break
+- **5:30 pm - 7:30 pm**: Free Time
+- **7:30 pm - 8:00 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Class Revision
+
+**Saturday**
+- **4:00 am - 6:00 am**: DSA Practice
+- **6:00 am - 6:30 am**: Breakfast/Break
+- **6:30 am - 8:30 am**: Aiida Contribution for GSoC
+- **8:30 am - 12:00 pm**: Free Time
+- **12:00 pm - 1:00 pm**: Lunch
+- **1:00 pm - 3:00 pm**: OpenCv Contribution for GSoC
+- **3:00 pm - 3:15 pm**: Break
+- **3:15 pm - 5:15 pm**: Class Revision
+- **5:15 pm - 5:30 pm**: Break
+- **5:30 pm - 7:30 pm**: Free Time
+- **7:30 pm - 8:00 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
+
+**Sunday**
+- **4:00 am - 6:00 am**: DSA Practice
+- **6:00 am - 6:30 am**: Breakfast/Break
+- **6:30 am - 8:30 am**: Aiida Contribution for GSoC
+- **8:30 am - 12:00 pm**: Free Time
+- **12:00 pm - 1:00 pm**: Lunch
+- **1:00 pm - 3:00 pm**: OpenCv Contribution for GSoC
+- **3:00 pm - 3:15 pm**: Break
+- **3:15 pm - 5:15 pm**: Class Revision
+- **5:15 pm - 5:30 pm**: Break
+- **5:30 pm - 7:30 pm**: Free Time
+- **7:30 pm - 8:00 pm**: Dinner/Break
+- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
+
+### Notes
+- **HS**: Free Time (Can be used for personal study, relaxation, or other activities)
+- Ensure you get enough sleep and take breaks as needed to maintain productivity and well-being.
+- Adjust the schedule as necessary to fit your needs and ensure you have a balanced routine.
+
 
 <h2><div align="center">Previous year Questions</div></h2>
 
