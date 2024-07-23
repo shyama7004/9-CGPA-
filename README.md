@@ -48,10 +48,10 @@
 - **12:00 pm - 12:45 pm**: Lunch
 - **12:45 pm - 3:00 pm**: Aiida Contribution for GSoC
 - **3:00 pm - 3:15 pm**: Break
-- **3:15 pm - 5:15 pm**: Class Revision
-- **5:15 pm - 5:30 pm**: Break
-- **5:30 pm - 7:30 pm**: OpenCv Contribution for GSoC
-- **7:30 pm - 8:00 pm**: Dinner/Break
+- **3:15 pm - 4:15 pm**: Class Revision
+- **4:20 pm - 5:30 pm**: Introduction to Society & Culture
+- **5:30 pm - 7:45 pm**: OpenCv Contribution for GSoC
+- **7:45 pm - 8:15 pm**: Dinner/Break
 - **8:00 pm - 9:45 pm**: Free Time/Personal Activities
 
 **Friday**
@@ -59,8 +59,10 @@
 - **6:15 am - 6:30 am**: Breakfast/Break
 - **6:30 am - 7:30 am**: OpenCv Contribution for GSoC
 - **7:30 am - 7:55 am**: Breakfast
-- **8:00 am - 9:00 pm**: MA2005 Numerical Meth
-- 
+- **8:00 am - 9:00 pm**: Material Thermodynamics
+- **9:00 am - 10:00 pm**: Numerical Methods
+- **10:00 am - 11:00 am**: Break
+- **11:00 am - 12:00 pm**: Introduction to AI & Ml
 - **12:00 pm - 1:00 pm**: Lunch
 - **1:00 pm - 3:00 pm**: Aiida Contribution for GSoC
 - **3:00 pm - 3:15 pm**: Break
@@ -71,10 +73,10 @@
 - **8:00 pm - 9:45 pm**: Class Revision
 
 **Saturday**
-- **4:00 am - 6:00 am**: DSA Practice
-- **6:00 am - 6:30 am**: Breakfast/Break
-- **6:30 am - 8:30 am**: Aiida Contribution for GSoC
-- **8:30 am - 12:00 pm**: Free Time
+- **4:00 am - 6:15 am**: DSA Practice
+- **6:30 am - 7:45 am**: DSA Practice
+- **8:00 am - 8:45 am**: Breakfast/Break 
+- **8:30 am - 12:00 pm**: Aiida Contribution for GSoC
 - **12:00 pm - 1:00 pm**: Lunch
 - **1:00 pm - 3:00 pm**: OpenCv Contribution for GSoC
 - **3:00 pm - 3:15 pm**: Break
@@ -85,10 +87,10 @@
 - **8:00 pm - 9:45 pm**: Free Time/Personal Activities
 
 **Sunday**
-- **4:00 am - 6:00 am**: DSA Practice
-- **6:00 am - 6:30 am**: Breakfast/Break
-- **6:30 am - 8:30 am**: Aiida Contribution for GSoC
-- **8:30 am - 12:00 pm**: Free Time
+- **4:00 am - 6:15 am**: DSA Practice
+- **6:30 am - 7:45 am**: DSA Practice
+- **8:00 am - 8:45 am**: Breakfast/Break 
+- **8:30 am - 12:00 pm**: Aiida Contribution for GSoC
 - **12:00 pm - 1:00 pm**: Lunch
 - **1:00 pm - 3:00 pm**: OpenCv Contribution for GSoC
 - **3:00 pm - 3:15 pm**: Break
