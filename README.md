@@ -11,18 +11,17 @@
 **Tuesday**
 - **4:15 am - 6:30 am**: DSA Practice
 - **6:30 am - 7:30 am**: Breakfast/Break
-- **7:30 am - 8:00 am**: Class Revision
-- **8:00 am - 9:00 am**: CR2403 Ceramic Raw Material
-- **9:00 am - 10:00 am**: Free Time
-- **10:00 am - 11:00 am**: CR2101 Thermo
+- **7:30 am - 8:30 am**: Class Revision
+- **9:00 am - 10:00 am**: CR2403 Ceramic Raw Material
+- **10:00 am - 11:00 am**: Material Thermodynamics
 - **11:00 am - 12:00 pm**: CS2011 AI and ML
 - **12:00 pm - 1:00 pm**: Lunch
-- **1:15 pm - 4:10 pm**: Ceramic Modelling Lab
+- **1:15 pm - 4:10 pm**: Chemical Analysis Labrotary
 - **4:20 pm - 5:15 pm**: HS
 - **5:15 pm - 5:30 pm**: Break
 - **5:30 pm - 7:30 pm**: OpenCv Contribution for GSoC
 - **7:30 pm - 8:00 pm**: Dinner/Break
-- **8:00 pm - 9:45 pm**: Free Time/Personal Activities
+- **8:00 pm - 10:15 pm**: AiiDA Contribution for GSoC
 
 **Wednesday**
 - **4:00 am - 6:15 am**: DSA Practice
